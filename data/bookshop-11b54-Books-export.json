@@ -1,0 +1,25 @@
+
+{
+  //data from firebase database
+
+  "Book1" : {
+    "price ":11.99,
+    "title":"Harry Potter"
+  },
+  "Book2" : {
+    "price":12.99,
+    "title":"Bible"
+  },
+  "Book3" : {
+    "price":9.99,
+    "title":"American Psycho"
+  },
+  "Book4" : {
+    "price":14.99,
+    "title":"Drive"
+  },
+  "Book5" : {
+    "price":16.99,
+    "title":"Driven"
+  }
+}
